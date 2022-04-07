@@ -1,4 +1,4 @@
-?php
+<?php
   <body>
     <style>
 {
@@ -146,4 +146,4 @@ a#exit {
   }
     </style>
   </body>
-  ?php
+  ?>
